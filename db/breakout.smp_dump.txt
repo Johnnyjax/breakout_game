@@ -1,0 +1,21 @@
+
+State Machine - |breakout_top|state_reg
+Name state_reg.over state_reg.newball state_reg.play state_reg.newgame 
+state_reg.newgame 0 0 0 0 
+state_reg.play 0 0 1 1 
+state_reg.newball 0 1 0 1 
+state_reg.over 1 0 0 1 
+
+State Machine - |breakout_top|debounce:right_btn_db_unit|state_reg
+Name state_reg.wait1 state_reg.one state_reg.wait0 state_reg.zero 
+state_reg.zero 0 0 0 0 
+state_reg.wait0 0 0 1 1 
+state_reg.one 0 1 0 1 
+state_reg.wait1 1 0 0 1 
+
+State Machine - |breakout_top|debounce:left_btn_db_unit|state_reg
+Name state_reg.wait1 state_reg.one state_reg.wait0 state_reg.zero 
+state_reg.zero 0 0 0 0 
+state_reg.wait0 0 0 1 1 
+state_reg.one 0 1 0 1 
+state_reg.wait1 1 0 0 1 

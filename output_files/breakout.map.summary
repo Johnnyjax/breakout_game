@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 27 21:21:34 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : breakout
+Top-level Entity Name : breakout_top
+Family : Cyclone II
+Total logic elements : 2,955
+    Total combinational functions : 2,955
+    Dedicated logic registers : 240
+Total registers : 240
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 16,384
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

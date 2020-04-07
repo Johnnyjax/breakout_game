@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="breakout">
+		<CBX_INST_ENTRY INSTANCE_NAME="|breakout_top|breakout_text:text_unit|font_rom:font_unit|altsyncram:Mux7_rtl_0" CBX_FILE_NAME="altsyncram_c601.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
